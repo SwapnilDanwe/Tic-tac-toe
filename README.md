@@ -1,2 +1,2 @@
 # Tic-tac-toe
-A basic tic tac toe game with win, lose and draw logic
+A basic tic tac toe game with win, loose and draw logic
